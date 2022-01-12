@@ -1,0 +1,1 @@
+# ru-projects-for-contributing
