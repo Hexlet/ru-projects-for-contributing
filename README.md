@@ -41,6 +41,13 @@ Hexlet — не просто школа программирования. Это
 
 [Страница проекта на GitHub](https://github.com/wapmorgan/Morphos)
 
+# PastVU
+
+[PastVu](https://pastvu.com/) — проект по сбору свидетельств прошлого. Взгляд на историю среды обитания человечества. Стек: NodeJS (ExpressJS, Pug, Docker, MongoDB)
+
+* [Страница проекта на Github](https://github.com/PastVu/pastvu)
+* [Задачи](https://github.com/PastVu/pastvu/issues)
+
 ### pymystem
 
 Библиотека Python для морфологического анализатора [Yandex Mystem 3.1](http://api.yandex.ru/mystem). Оригинальный инструмент поставляется в виде бинарного файла, и эта библиотека позволяет легко интегрировать его в проекты на Python. Сообщите нам в вопросах, если Вы хотите принять участие в разработке или поддержке этого проекта.
