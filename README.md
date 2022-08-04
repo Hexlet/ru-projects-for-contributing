@@ -1,4 +1,4 @@
-# ru-projects-for-contributing
+# Open-source проекты в которых можно принять участие
 
 ##
 
