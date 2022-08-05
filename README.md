@@ -1,6 +1,4 @@
-# Open-source проекты в которых можно принять участие
-
-##
+# Волонтерские проекты, которым требуется помощь
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing)
 
