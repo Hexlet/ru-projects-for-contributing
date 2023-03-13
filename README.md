@@ -34,7 +34,7 @@ PHP и JavaScript мы написали самостоятельно, но уж�
 Ссылки:
 
 * [Как участвовать в жизни Хекслета](https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community)
-* [#hexlet-volunteers](https://hexlet-ru.slack.com/archives/C0LN151B4) — канал в Slack сообщества Hexlet, где ведётся основное обсуждение
+* [Telegram Hexlet](https://t.me/hexletcommunity/12) — канал Волонтеры в Telegram Hexlet, где ведётся основное обсуждение
 
 Задачи:
 
