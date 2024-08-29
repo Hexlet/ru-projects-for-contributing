@@ -28,6 +28,14 @@
 
 ---
 
+|Название | Ecodomen |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://ecodomen.ru" target="_blank"><img width="200px" src="./projects/ecodomen/assets/ecodomen.png"></a> |
+|**Краткое описание** | https://ecodomen.ru - это волонтерский проект с открытым исходным кодом, целью которого является создание агрегатора регистраторов доменных имен в зоне .ru. Проще говоря, помогает сэкономить на аренде доменов.
+|**Ссылки** | [Сайт](https://ecodomen.ru) </br> [Исходный код](https://github.com/ecodomen/nsreg-watcher) </br> [Задачи](https://github.com/orgs/ecodomen/projects/1/views/1) </br> [Подробнее](/projects/ecodomen/README.md)|
+
+---
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
 
 Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
