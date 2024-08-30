@@ -36,6 +36,14 @@
 
 ---
 
+|Название | Игры разума |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://braingames.ru/" target="_blank"><img width="200px" src="./projects/braingames/assets/braingames.png"></a> |
+|**Краткое описание** | Игры разума — сайт с логическими задачами-головоломками и загадками. Основной идеей сайта является недоступность ответов до момента самостоятельного решения задачи, доступный уровень задач (на школьный уровень знаний), а также проверка ответов людьми, прошедшими предварительную квалификацию (модераторами)
+|**Ссылки** | [Сайт](https://braingames.ru/) </br> [Подробнее](/projects/ecodomen/README.md)|
+
+---
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
 
 Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
