@@ -7,4 +7,5 @@
 ## Ссылки
 
 * [Сайт](http://braingames.ru/)
+* [Как помочь проекту](https://braingames.ru/?path=help#help__part)
 * [Чат в Telegram](https://t.me/braingames_ru)
