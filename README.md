@@ -44,6 +44,14 @@
 
 ---
 
+|Название | Hexlet CV |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://cv.hexlet.io/" target="_blank"><img width="200px" src="./projects/hexlet-cv/assets/hexlet-cv.png"></a> |
+|**Краткое описание** | Hexlet CV — это площадка, на которой студенты размещают свои резюме, а работодатели ищут будущих сотрудников и публикуют вакансии. Еще на этой платформе можно получить ревью резюме от опытных разработчиков и HR-менеджеров — они дают советы по улучшению и помогают составить сопроводительное письмо.
+|**Ссылки** | [Сайт](https://cv.hexlet.io/) </br> [Подробнее](/projects/ecodomen/README.md)|
+
+---
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
 
 Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
