@@ -5,7 +5,7 @@
 
 ## Как участвовать
 
-<!-- TODO: добавить -->
+Для участия заполняйте [заявку](https://docs.google.com/forms/d/e/1FAIpQLSeel1XO6lUhey9bhnSu7T0-9SVOaYXcFLvBXC9hbjwta7eMEw/viewform).
 
 ## Ссылки
 
