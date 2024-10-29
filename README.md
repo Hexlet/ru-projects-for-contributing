@@ -52,6 +52,14 @@
 
 ---
 
+|Название | Lichess |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://lichess.org/" target="_blank"><img width="200px" src="./projects/lichess/assets/lichess.png"></a> |
+|**Краткое описание** | Lichess.org — это бесплатный шахматный сервер с открытым исходным кодом, существующий благодаря усилиям волонтеров и пожертвованиям.
+|**Ссылки** | [Сайт](https://lichess.org/) </br> [Подробнее](/projects/lichess/README.md)|
+
+---
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
 
 Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
