@@ -60,6 +60,15 @@
 
 ---
 
+|Название | Human Essentials |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://humanessentials.app/" target="_blank"><img width="200px" src="./projects/human-essentials/assets/human-essentials.png"></a> |
+|**Краткое описание** | Human Essentials — это система управления запасами, созданная для поддержки центров помощи и других организаций, предоставляющих товары первой необходимости. Она помогает поддерживать учет, получать пожертвования и распределять товары среди партнерских организаций
+
+|**Ссылки** | [Сайт](https://humanessentials.app/) </br> [Подробнее](/projects/human-essentials/README.md)|
+
+---
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
 
 Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
