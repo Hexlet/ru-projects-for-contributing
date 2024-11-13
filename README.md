@@ -92,6 +92,14 @@
 
 ---
 
+|Название | Vetlog |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://vetlog.org/" target="_blank"><img width="200px" src="./projects/vetlog/assets/vetlog.png"></a> |
+|**Краткое описание** | Vetlog — проект, посвященный ответственному усыновлению бездомных домашних животных
+|**Ссылки** | [Сайт](https://vetlog.org/) </br> [Подробнее](/projects/vetlog/README.md)|
+
+---
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
 
 Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
