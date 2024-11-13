@@ -76,6 +76,14 @@
 
 ---
 
+|Название | Mattermost |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://mattermost.com/" target="_blank"><img width="200px" src="./projects/mattermost/assets/mattermost.png"></a> |
+|**Краткое описание** | Mattermost — это платформа для командной работы и общения, обеспечивающая надежную и безопасную среду для обмена сообщениями, совместной работы над проектами и управления задачами. Она поддерживает интеграцию с различными инструментами и предлагает функции, такие как каналы, прямые сообщения и видеозвонки, что делает её идеальным решением для удалённых и распределённых команд.
+|**Ссылки** | [Сайт](https://mattermost.com/) </br> [Подробнее](/projects/mattermost/README.md)|
+
+---
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
 
 Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
