@@ -18,6 +18,7 @@ Human Essentials представляет собой инновационную 
 
 ## Ссылки
 
+* [Инструкция для участников проекта](https://github.com/rubyforgood/human-essentials/blob/main/CONTRIBUTING.md)
 * [Сайт](https://humanessentials.app/)
 * [Исходный код](https://github.com/rubyforgood/human-essentials)
 * [Чат сообщества](https://join.slack.com/t/rubyforgood/shared_invite/zt-2k5ezv241-Ia2Iac3amxDS8CuhOr69ZA)
