@@ -20,6 +20,14 @@
 
 ---
 
+|Название | Codebattle |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://codebattle.hexlet.io/" target="_blank"><img width="200px" src="./projects/codebattle/assets/codebattle.png"></a> |
+|**Краткое описание** | Codebattle — игра для разработчиков с открытым исходным кодом, разрабатываемая сообществом Hexlet
+|**Ссылки** | [Сайт](https://codebattle.hexlet.io/) <br> [Исходный код](https://github.com/hexlet-codebattle/codebattle) </br> [Подробнее](./projects/codebattle/README.md)|
+
+---
+
 |Название | PastVu |
 |:----------------|:--------------|
 |**Скриншот** | <a href="https://pastvu.com/" target="_blank"><img width="200px" src="./projects/pastvu/assets/pastvu.png"></a> |
