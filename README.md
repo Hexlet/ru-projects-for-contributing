@@ -20,6 +20,14 @@
 
 ---
 
+|Название | Codebattle |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://codebattle.hexlet.io/" target="_blank"><img width="200px" src="./projects/codebattle/assets/codebattle.png"></a> |
+|**Краткое описание** | Codebattle — игра для разработчиков с открытым исходным кодом, разрабатываемая сообществом Hexlet
+|**Ссылки** | [Сайт](https://codebattle.hexlet.io/) <br> [Исходный код](https://github.com/hexlet-codebattle/codebattle) </br> [Подробнее](./projects/codebattle/README.md)|
+
+---
+
 |Название | PastVu |
 |:----------------|:--------------|
 |**Скриншот** | <a href="https://pastvu.com/" target="_blank"><img width="200px" src="./projects/pastvu/assets/pastvu.png"></a> |
@@ -73,6 +81,14 @@
 |**Скриншот** | <a href="https://beta.monicahq.com" target="_blank"><img width="200px" src="./projects/monica/assets/monica.png"></a> |
 |**Краткое описание** | Monica — это веб-приложение для документирования вашей жизни и организации взаимодействий с семьей и друзьями, которое функционирует как система управления личными отношениями (PRM). Оно помогает пользователям отслеживать важные моменты и детали о близких людях
 |**Ссылки** | [Сайт](https://beta.monicahq.com) </br> [Подробнее](/projects/monica/README.md)|
+
+---
+
+|Название | Vetlog |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://vetlog.org/" target="_blank"><img width="200px" src="./projects/vetlog/assets/vetlog.png"></a> |
+|**Краткое описание** | Vetlog — проект, посвященный ответственному усыновлению бездомных домашних животных
+|**Ссылки** | [Сайт](https://vetlog.org/) </br> [Подробнее](/projects/vetlog/README.md)|
 
 ---
 
