@@ -92,6 +92,22 @@
 
 ---
 
+|Название | Pipedream |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://pipedream.com/" target="_blank"><img width="200px" src="./projects/pipedream/assets/pipedream.png"></a> |
+|**Краткое описание** | Pipedream — это интеграционная платформа для разработчиков для подключения приложений и создания автоматизаций, основанных на событиях. Пользователи могут использовать более 1000 полностью интегрированных приложений для быстрого выполнения действий, а также писать собственный код на Node.js, Python, Golang или Bash для реализации пользовательской логики
+|**Ссылки** | [Сайт](https://pipedream.com/) </br> [Подробнее](/projects/pipedream/README.md)|
+
+---
+
+|Название | n8n |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://n8n.io/" target="_blank"><img width="200px" src="./projects/n8n/assets/n8n.png"></a> |
+|**Краткое описание** | n8n — это платформа для автоматизации рабочих процессов с открытым исходным кодом, которая позволяет пользователям интегрировать различные приложения и сервисы без необходимости программирования. Она предлагает визуальный интерфейс для создания сложных автоматизаций с использованием более 200 предустановленных интеграций
+|**Ссылки** | [Сайт](https://n8n.io/) </br> [Подробнее](/projects/n8n/README.md)|
+
+---
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
 
 Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
