@@ -100,6 +100,14 @@
 
 ---
 
+|Название | n8n |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://n8n.io/" target="_blank"><img width="200px" src="./projects/n8n/assets/n8n.png"></a> |
+|**Краткое описание** | n8n — это платформа для автоматизации рабочих процессов с открытым исходным кодом, которая позволяет пользователям интегрировать различные приложения и сервисы без необходимости программирования. Она предлагает визуальный интерфейс для создания сложных автоматизаций с использованием более 200 предустановленных интеграций
+|**Ссылки** | [Сайт](https://n8n.io/) </br> [Подробнее](/projects/n8n/README.md)|
+
+---
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
 
 Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
