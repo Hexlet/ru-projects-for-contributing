@@ -4,7 +4,7 @@ Getmentor — это открытое сообщество IT-наставник
 
 ## Технологии
 
-В проекте используется язык JavaScript и фреймворк Next.js
+В проекте используется PHP и фреймворк Laravel для бекенда и React для фронтенда
 
 ## Как участвовать
 
@@ -14,4 +14,5 @@ Getmentor — это открытое сообщество IT-наставник
 
 * [Сайт](https://getmentor.dev/)
 * [Чат в getmentor Telegram](https://t.me/getmentor_dev)
-* [Задачи](https://github.com/getmentor/getmentor.dev/issues)
+* [Задачи по бекенду](https://github.com/getmentor/getmentor-backend/issues)
+* [Задачи по фронтенду](https://github.com/getmentor/getmentor-frontend/issues)
