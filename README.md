@@ -153,7 +153,7 @@
 |**Скриншоты** | <a href="https://www.getoutline.com/" target="_blank"><img width="200px" src="./projects/outline/assets/outline-1.png"></a> <a href="https://www.getoutline.com/" target="_blank"><img width="200px" src="./projects/outline/assets/outline-2.png"></a>|
 |**Краткое описание** | Outline — это приложение для создания и управления базой знаний, которое позволяет пользователям организовывать информацию и совместно использовать ее
 |**Технологии** | TypeScript, React, Node.js.|
-|**Как участвовать** | Напишите в [комьюнити](https://t.me/orchid_russian_community), если захотите принять участие в проекте|
+|**Как участвовать** | Чтобы принять участие в разработке проекта, изучите существующие [ишьюсы](https://github.com/outline/outline/issues) или создайте новый, обсудите свои идеи с командой, а затем напишите код и отправьте pull request. |
 |**Ссылки** | [Сайт](https://orchid.software/) </br> [Подробнее](/projects/orchid/README.md)|
 
 ---
