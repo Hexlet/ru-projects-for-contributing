@@ -108,6 +108,66 @@
 
 ---
 
+|Название | module-replacements |
+|:----------------|:--------------|
+|**Скриншот** | <a href="https://github.com/es-tooling/module-replacements" target="_blank"><img width="200px" src="./projects/module-replacements/assets/module-replacements.png"></a> |
+|**Краткое описание** | Проект module-replacements предназначен для упрощения и оптимизации работы с модулями в JavaScript-приложениях. Он предоставляет набор инструментов, позволяющих разработчикам легко заменять модули на их более легкие и компактные замены, что решает проблему "раздутой" директории *node_modules*
+|**Технологии** | JavaScript, TypeScript|
+|**Как участвовать** | Чтобы участвовать в проекте, изучите [руководство для участников](https://github.com/es-tooling/module-replacements?tab=readme-ov-file#contributing) и откройте issue для обсуждения с разработчиками, если хотите добавить замену в один из манифестов|
+|**Ссылки** | [Репозиторий](https://github.com/es-tooling/module-replacements) </br> [Подробнее](/projects/module-replacements/README.md)|
+
+---
+
+|Название | Разрабы |
+|:----------------|:--------------|
+|**Скриншоты** | <a href="https://razrabs.ru/" target="_blank"><img width="200px" height="100px" src="./projects/razrabs/assets/razrabs.png"></a> <a href="https://razrabs.ru/" target="_blank"><img width="200px" height="100px" src="./projects/razrabs/assets/razrabs-2.png"></a>|
+|**Краткое описание** | «Разрабы» — это медиа ресурс для людей из IT-индустрии и всех, кто хочет ее понять
+|**Технологии** | TypeScript, Next.js|
+|**Как участвовать** | Чтобы участвовать в проекте, возьмите существующую задачу из [этого раздела](https://github.com/razrabs-media/journal/issues). Если же у вас есть задумка, для которой еще не создано issue, создайте его и опишите, что будет сделано|
+|**Ссылки** | [Сайт](https://razrabs.ru/) </br> [Подробнее](/projects/razrabs/README.md)|
+
+---
+
+|Название | getmentor |
+|:----------------|:--------------|
+|**Скриншоты** | <a href="https://getmentor.dev/" target="_blank"><img width="200px" height="130" src="./projects/getmentor/assets/getmentor-1.png"></a> <a href="https://getmentor.dev/" target="_blank"><img width="200px" height="130px" src="./projects/getmentor/assets/getmentor-2.png"></a>|
+|**Краткое описание** | GetMentor — это открытое сообщество IT-наставников, готовых делиться знаниями и опытом
+|**Технологии** | PHP, Laravel, JavaScript, React|
+|**Как участвовать** | Напишите нам в Телеграм в канал [#Волонтеры](https://t.me/hexletcommunity/12), если захотите принять участие в проекте|
+|**Ссылки** | [Сайт](https://getmentor.dev/) </br> [Подробнее](/projects/getmentor/README.md)|
+
+---
+
+|Название | Orchid |
+|:----------------|:--------------|
+|**Скриншоты** | <a href="https://orchid.software/" target="_blank"><img width="200px" height="120" src="./projects/orchid/assets/orchid-1.png"></a> <a href="https://orchid.software/" target="_blank"><img width="200px" height="120px" src="./projects/orchid/assets/orchid-2.png"></a>|
+|**Краткое описание** | Laravel Orchid — это проект с открытым исходным кодом от российского Laravel сообщества, который упрощает разработку административных приложений, предлагая элегантный интерфейс и множество функциональных возможностей. Он включает в себя конструктор форм, управление правами доступа, более 40 типов полей и другие инструменты для создания удобных интерфейсов
+|**Технологии** | PHP, JavaScript, Blade|
+|**Как участвовать** | Напишите в [комьюнити](https://t.me/orchid_russian_community), если захотите принять участие в проекте|
+|**Ссылки** | [Сайт](https://orchid.software/) </br> [Подробнее](/projects/orchid/README.md)|
+
+---
+
+|Название | Outline |
+|:----------------|:--------------|
+|**Скриншоты** | <a href="https://www.getoutline.com/" target="_blank"><img width="200px" src="./projects/outline/assets/outline-1.png"></a> <a href="https://www.getoutline.com/" target="_blank"><img width="200px" src="./projects/outline/assets/outline-2.png"></a>|
+|**Краткое описание** | Outline — это приложение для создания и управления базой знаний, которое позволяет пользователям организовывать информацию и совместно использовать ее
+|**Технологии** | TypeScript, React, Node.js.|
+|**Как участвовать** | Чтобы принять участие в разработке проекта, изучите существующие [ишьюсы](https://github.com/outline/outline/issues) или создайте новый, обсудите свои идеи с командой, а затем напишите код и отправьте pull request. |
+|**Ссылки** | [Сайт](https://orchid.software/) </br> [Подробнее](/projects/orchid/README.md)|
+
+---
+
+|Название | Ordo |
+|:----------------|:--------------|
+|**Скриншоты** | <a href="https://ordo.pink/" target="_blank"><img width="200px" src="./projects/ordo/assets/ordo-1.png"></a> <a href="https://ordo.pink/" target="_blank"><img width="200px" src="./projects/ordo/assets/ordo-2.png"></a>|
+|**Краткое описание** | Ordo — это расширяемый движок для хранения данных, который предлагает пользователям возможность работы с текстовыми файлами, поддерживает метки и ссылки между файлами. Он акцентирует внимание на локальном хранении данных и безопасности, позволяя пользователям управлять своими данными без обязательной регистрации
+|**Технологии** | TypeScript, Bun.js|
+|**Как участвовать** |Чтобы принять участие в проекте, напишите разработчикам в [чате проекта](https://t.me/ordo_pink_ru) в Телеграм |
+|**Ссылки** | [Сайт](https://ordo.pink/) </br> [Подробнее](/projects/ordo/README.md)|
+
+---
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
 
 Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
