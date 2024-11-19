@@ -158,6 +158,16 @@
 
 ---
 
+|Название | Ordo |
+|:----------------|:--------------|
+|**Скриншоты** | <a href="https://ordo.pink/" target="_blank"><img width="200px" src="./projects/ordo/assets/ordo-1.png"></a> <a href="https://ordo.pink/" target="_blank"><img width="200px" src="./projects/ordo/assets/ordo-2.png"></a>|
+|**Краткое описание** | Ordo — это расширяемый движок для хранения данных, который предлагает пользователям возможность работы с текстовыми файлами, поддерживает метки и ссылки между файлами. Он акцентирует внимание на локальном хранении данных и безопасности, позволяя пользователям управлять своими данными без обязательной регистрации
+|**Технологии** | TypeScript, Bun.js|
+|**Как участвовать** |Чтобы принять участие в проекте, напишите разработчикам в [чате проекта](https://t.me/ordo_pink_ru) в Телеграм |
+|**Ссылки** | [Сайт](https://ordo.pink/) </br> [Подробнее](/projects/ordo/README.md)|
+
+---
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
 
 Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
