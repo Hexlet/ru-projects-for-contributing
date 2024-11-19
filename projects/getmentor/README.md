@@ -8,11 +8,11 @@ Getmentor — это открытое сообщество IT-наставник
 
 ## Как участвовать
 
-Если захотите принять участие в проекте, напишите нам в Телеграм в канал [#Волонтеры](https://t.me/hexletcommunity/12) или на [почту](hello@getmentor.dev) разработчикам проекта
+Если захотите принять участие в проекте, напишите нам в Телеграм в канал [#Волонтеры](https://t.me/hexletcommunity/12). Мы поможем связаться с разработчиком и подобрать задачу
 
 ## Ссылки
 
 * [Сайт](https://getmentor.dev/)
-* [Чат в getmentor Telegram](https://t.me/getmentor_dev)
+* Канал [#Волонтеры](https://t.me/hexletcommunity/12)
 * [Задачи по бекенду](https://github.com/getmentor/getmentor-backend/issues)
 * [Задачи по фронтенду](https://github.com/getmentor/getmentor-frontend/issues)

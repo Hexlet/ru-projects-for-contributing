@@ -132,8 +132,8 @@
 |:----------------|:--------------|
 |**Скриншоты** | <a href="https://getmentor.dev/" target="_blank"><img width="200px" height="130" src="./projects/getmentor/assets/getmentor-1.png"></a> <a href="https://getmentor.dev/" target="_blank"><img width="200px" height="130px" src="./projects/getmentor/assets/getmentor-2.png"></a>|
 |**Краткое описание** | GetMentor — это открытое сообщество IT-наставников, готовых делиться знаниями и опытом
-|**Технологии** | JavaScript, Next.js|
-|**Как участвовать** | Напишите нам в Телеграм в канал [#Волонтеры](https://t.me/hexletcommunity/12) или на [почту](hello@getmentor.dev) разработчикам проекта|
+|**Технологии** | PHP, Laravel, JavaScript, React|
+|**Как участвовать** | Напишите нам в Телеграм в канал [#Волонтеры](https://t.me/hexletcommunity/12), если захотите принять участие в проекте|
 |**Ссылки** | [Сайт](https://getmentor.dev/) </br> [Подробнее](/projects/getmentor/README.md)|
 
 ---
