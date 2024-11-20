@@ -25,4 +25,4 @@ Codebattle — это игра для разработчиков. Суть иг�
 * [Инструкция для участников проекта](https://github.com/hexlet-codebattle/codebattle/blob/master/CONTRIBUTING.md)
 * [Задачи](https://github.com/hexlet-codebattle/codebattle/issues)
 * [Как участвовать в жизни Хекслета](https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community)
-* [Telegram Hexlet](t.me/hexletcommunity/5) — канал Codebattle в Telegram Hexlet, где ведётся основное обсуждение
+* [Сообщество Хекслет в Telegram](t.me/hexletcommunity/5) — канал Codebattle в сообществе, где ведётся основное обсуждение
