@@ -17,7 +17,7 @@
 |**Скриншот** | <a href="https://code-basics.com" target="_blank"><img width="200px" height="100px" src="./projects/code-basics/assets/codebasics.jpg"></a> <a href="https://code-basics.com" target="_blank"><img width="200px" height="100px" src="./projects/code-basics/assets/codebasics-2.png"></a>|
 |**Краткое описание** | Code Basics — сайд-проект Хекслета с открытым исходным кодом. Причем открыт как код сайта, так и весь контент. Его цель — дать основы языков программирования с практикой прямо в браузере. Сайт абсолютно бесплатен и останется таким навсегда. В перспективе планируется англоязычная версия. Она есть уже сейчас, но контент переведен лишь частями.
 |**Технологии** | Ruby, Ruby on Rails, Docker|
-|**Как участвовать** | Чтобы принять участие в разработке проекта, изучите существующие задачи или создайте новый issue, обсудите свои идеи с командой, а затем напишите код и отправьте pull request |
+|**Как участвовать** | Чтобы принять участие в разработке проекта, изучите существующие задачи или создайте новый issue, обсудите свои идеи с командой, а затем напишите код и отправьте pull request. Подключайтесь к [нашему сообществу в Телеграм](https://t.me/hexletcommunity/12), задавайте в чате вопросы и делитесь своими мыслями |
 |**Ссылки** | [Сайт](https://code-basics.com/) <br> [Исходный код](https://github.com/hexlet-basics) </br> [Подробнее](./projects/code-basics/README.md)|
 
 ---
@@ -27,7 +27,7 @@
 |**Скриншот** | <a href="https://codebattle.hexlet.io/" target="_blank"><img width="200px" height="100px" src="./projects/codebattle/assets/codebattle.png"></a> <a href="https://codebattle.hexlet.io/" target="_blank"><img width="200px" height="100px" src="./projects/codebattle/assets/codebattle-2.png"></a>|
 |**Краткое описание** | Codebattle — игра для разработчиков с открытым исходным кодом, разрабатываемая сообществом Hexlet
 |**Технологии** | Elixir, Clojure, JavaScript, React|
-|**Как участвовать** | Чтобы принять участие в разработке проекта, изучите существующие задачи или создайте новый issue, обсудите свои идеи с командой, а затем напишите код и отправьте pull request |
+|**Как участвовать** | Чтобы принять участие в разработке проекта, изучите существующие задачи или создайте новый issue, обсудите свои идеи с командой, а затем напишите код и отправьте pull request. Задавайте вопросы и обсуждайте идеи в нашем [Telegram-сообществе](t.me/hexletcommunity/5)|
 |**Ссылки** | [Сайт](https://codebattle.hexlet.io/) <br> [Исходный код](https://github.com/hexlet-codebattle/codebattle) </br> [Подробнее](./projects/codebattle/README.md)|
 
 ---
@@ -56,7 +56,7 @@
 |:----------------|:--------------|
 |**Скриншот** | <a href="https://braingames.ru/" target="_blank"><img width="200px" height="100px" src="./projects/braingames/assets/braingames.png"></a> <a href="https://braingames.ru/" target="_blank"><img width="200px" height="100px" src="./projects/braingames/assets/braingames-2.png"></a>|
 |**Краткое описание** | Игры разума — сайт с логическими задачами-головоломками и загадками. Основной идеей сайта является недоступность ответов до момента самостоятельного решения задачи, доступный уровень задач (на школьный уровень знаний), а также проверка ответов людьми, прошедшими предварительную квалификацию (модераторами)
-|**Технологии** | |
+|**Технологии** | PHP, Javascript, HTML, CSS, MySQL |
 |**Как участвовать** | Напишите в Telegram [Александру](https://t.me/ddt79), он вас сориентирует |
 |**Ссылки** | [Сайт](https://braingames.ru/) </br> [Подробнее](/projects/braingames/README.md)|
 
@@ -67,7 +67,7 @@
 |**Скриншот** | <a href="https://cv.hexlet.io/" target="_blank"><img width="200px" height="100px" src="./projects/hexlet-cv/assets/hexlet-cv.png"></a> <a href="https://cv.hexlet.io/" target="_blank"><img width="200px" height="100px" src="./projects/hexlet-cv/assets/hexlet-cv-2.png"></a>|
 |**Краткое описание** | Hexlet CV — это площадка, на которой студенты размещают свои резюме, а работодатели ищут будущих сотрудников и публикуют вакансии. Еще на этой платформе можно получить ревью резюме от опытных разработчиков и HR-менеджеров — они дают советы по улучшению и помогают составить сопроводительное письмо.
 |**Технологии** | Ruby, Ruby on Rails, Bootstrap |
-|**Как участвовать** | Чтобы принять участие в разработке проекта, изучите существующие [задачи](https://github.com/Hexlet/hexlet-cv/issues) или создайте новый issue, обсудите свои идеи с командой, а затем напишите код и отправьте pull request |
+|**Как участвовать** | Чтобы принять участие в разработке проекта, изучите существующие [задачи](https://github.com/Hexlet/hexlet-cv/issues) или создайте новый issue, обсудите свои идеи с командой, а затем напишите код и отправьте pull request. Задать вопросы по задачам или поделиться мыслями можно в [нашем сообществе в Телеграм](https://t.me/hexletcommunity/12) |
 |**Ссылки** | [Сайт](https://cv.hexlet.io/) </br> [Подробнее](/projects/hexlet-cv/README.md)|
 
 ---
