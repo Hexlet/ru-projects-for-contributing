@@ -60,18 +60,6 @@
 
 ---
 
-|Название | Игры разума |
-|:----------------|:--------------|
-|**Скриншот** | <a href="https://braingames.ru/" target="_blank"><img width="200px" height="100px" src="./projects/braingames/assets/braingames.png"></a> <a href="https://braingames.ru/" target="_blank"><img width="200px" height="100px" src="./projects/braingames/assets/braingames-2.png"></a>|
-|**Краткое описание** | Игры разума — сайт с логическими задачами-головоломками и загадками. Основной идеей сайта является недоступность ответов до момента самостоятельного решения задачи, доступный уровень задач (на школьный уровень знаний), а также проверка ответов людьми, прошедшими предварительную квалификацию (модераторами)
-|**Технологии** | PHP, Javascript, HTML, CSS, MySQL |
-|**Основной язык общения** | русский |
-|**Регион** | СНГ |
-|**Как участвовать** | Напишите в Telegram [Александру](https://t.me/ddt79), он вас сориентирует |
-|**Ссылки** | [Сайт](https://braingames.ru/) </br> [Подробнее](/projects/braingames/README.md)|
-
----
-
 |Название | Hexlet CV |
 |:----------------|:--------------|
 |**Скриншот** | <a href="https://cv.hexlet.io/" target="_blank"><img width="200px" height="100px" src="./projects/hexlet-cv/assets/hexlet-cv.png"></a> <a href="https://cv.hexlet.io/" target="_blank"><img width="200px" height="100px" src="./projects/hexlet-cv/assets/hexlet-cv-2.png"></a>|
