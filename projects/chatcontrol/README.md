@@ -1,5 +1,7 @@
 # Chat Control
 
+![Chat Control website](./assets/main.png)
+
 Chat Control — сервис для управления группами и каналами в Telegram.
 
 Независимо от того, работаете ли вы с небольшим сообществом или крупной организацией, наш сервис поможет вам автоматизировать задачи, модерировать чаты и организовывать работу сообществ удобнее и быстрее.
@@ -10,11 +12,19 @@ Chat Control — сервис для управления группами и к
 
 Проект социальный, нацелен на начинающих специалистов, чтобы помочь им получить опыт работы в команде, поучаствовать в разработке проекта, получить фидбек от ментора.
 
+![Chat Control features](./assets/features.png)
+
 ## Технологии
 
 На фронтенде: React, React-Router, React-Hook-Form, React-Quill, Redux-Toolkit, Ant Design, module CSS, axios,  dom-purify, i18next & react-i18next, Swagger (to figure out all packages look at package.json), Typescript
 
 Бекенд: Java/Python (aiogram) /Node.js
+
+## Требования к участникам
+
+Для бекендеров: опыт работы с Django, желательно еще уметь пользовать Docker. Для фронтендеров: опыт работы с React, знание React Router
+
+А также желание учиться и развиваться.
 
 ## Как участвовать
 

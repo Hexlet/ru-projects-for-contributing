@@ -218,7 +218,7 @@
 
 |Название | Chat Control |
 |:----------------|:--------------|
-|**Скриншоты** | <a href="https://chatcontrol.xyz/" target="_blank"><img width="200px" src=""></a>|
+|**Скриншоты** | <a href="https://chatcontrol.xyz/" target="_blank"><img width="200px" src="./projects/chatcontrol/assets/main.png"><img width="200px" src="./projects/chatcontrol/assets/docs.png"></a>|
 |**Краткое описание** | [Chat Control](https://t.me/ITPM_dev_main_bot)- сервис для управления группами и каналами в Telegram.
 |**Технологии** | Java, Python (aiogram), Node.js, React |
 |**Основной язык общения** | русский |
