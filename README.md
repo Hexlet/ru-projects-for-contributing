@@ -204,6 +204,18 @@
 
 ---
 
+|Название | Chat Control |
+|:----------------|:--------------|
+|**Скриншоты** | <a href="https://chatcontrol.xyz/" target="_blank"><img width="200px" src="./projects/chatcontrol/assets/main.png"><img width="200px" src="./projects/chatcontrol/assets/docs.png"></a>|
+|**Краткое описание** | [Chat Control](https://t.me/ITPM_dev_main_bot)- сервис для управления группами и каналами в Telegram.
+|**Технологии** | Java, Python (aiogram), Node.js, React |
+|**Основной язык общения** | русский |
+|**Регион** | СНГ |
+|**Как участвовать** | Чтобы подать заявку, просто заполните гугл-форму по ссылке. — [Ссылка на запись](https://docs.google.com/forms/d/e/1FAIpQLSdpDitb_vzAD6hpOcGsfTGDJAR-UkHv9KBa4xqEjKznMAka0Q/viewform) |
+|**Ссылки** | [Сайт](https://chatcontrol.xyz/) </br> [Подробнее](/projects/chatcontrol/README.md) </br> [Телеграм-канал](https://t.me/chatcontrol) </br> [Бот](https://t.me/ITPM_dev_main_bot)|
+
+---
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
 
 Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
