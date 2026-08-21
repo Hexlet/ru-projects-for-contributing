@@ -1,14 +1,41 @@
-# Список проектов для участия
+<div align="center">
 
-Список проектов, в которых можно принять участие и получить коммерческий опыт.
+<a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/svg/hexlet_wordmark_white_rus.svg">
+        <img src="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/svg/hexlet_wordmark_primary_rus.svg" alt="Хекслет" height="64">
+    </picture>
+</a>
+
+# Проекты для коммерческого опыта
+
+**17 проектов с открытым исходным кодом, которые берут новых участников** — шахматный сервер
+на Scala, игровая платформа на Elixir, сервисы на Rails, Django, Laravel и Next.js.
+
+По каждому проекту: стек, язык общения команды, регион и конкретный способ подключиться —
+issue, чат или заявка.
+
+[![PR welcome](https://img.shields.io/badge/pull_request-welcome-brightgreen?style=flat-square)](#как-помочь)
+[![Хекслет](https://img.shields.io/badge/обучение-Хекслет-116dff?style=flat-square)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing)
+[![Telegram](https://img.shields.io/badge/сообщество-Telegram-26A5E4?style=flat-square)](https://t.me/hexletcommunity)
+
+</div>
+
+Список создан и поддерживается командой и сообществом [Хекслета](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing) —
+образовательного проекта.
+
+> [!TIP]
+> Работа в открытом проекте — это ревью, релизы и общение с командой, то есть тот самый опыт,
+> которого просят в вакансиях. Обсудить, за какой проект взяться, можно в открытом
+> [Telegram-сообществе Хекслета](https://t.me/hexletcommunity).
 
 ## Как помочь?
 
-Мы принимаем Pull Request'ы! В качестве примера описания проекта — смотрите Code Basics
+Мы принимаем pull-request'ы.
 
-### Правила
-
-* Добавьте описание проекта, которому требуется помощь, как принять участие, контактные данные для связи. Используйте для шаблона Code Basics.
+* Заполняйте те же поля таблицы, что и у остальных проектов: описание, технологии, язык общения, регион, как участвовать, ссылки.
+* Подробное описание кладите отдельным файлом в *projects/<имя-проекта>/README.md*, скриншоты — в *projects/<имя-проекта>/assets/*.
+* За образцом смотрите карточку Code Basics.
 
 ## Проекты
 
@@ -161,7 +188,7 @@
 |**Скриншоты** | <a href="https://getmentor.dev/" target="_blank"><img width="200px" height="130" src="./projects/getmentor/assets/getmentor-1.png"></a> <a href="https://getmentor.dev/" target="_blank"><img width="200px" height="130px" src="./projects/getmentor/assets/getmentor-2.png"></a>|
 |**Краткое описание** | GetMentor — это открытое сообщество IT-наставников, готовых делиться знаниями и опытом
 |**Технологии** | PHP, Laravel, JavaScript, React|
-|**Основной язык общения** | heccrbq |
+|**Основной язык общения** | русский |
 |**Регион** | СНГ |
 |**Как участвовать** | Напишите нам в Телеграм в канал [#Волонтеры](https://t.me/hexletcommunity/12), если захотите принять участие в проекте|
 |**Ссылки** | [Сайт](https://getmentor.dev/) </br> [Подробнее](/projects/getmentor/README.md)|
@@ -213,9 +240,3 @@
 |**Регион** | СНГ |
 |**Как участвовать** | Чтобы подать заявку, просто заполните гугл-форму по ссылке. — [Ссылка на запись](https://docs.google.com/forms/d/e/1FAIpQLSdpDitb_vzAD6hpOcGsfTGDJAR-UkHv9KBa4xqEjKznMAka0Q/viewform) |
 |**Ссылки** | [Сайт](https://chatcontrol.xyz/) </br> [Подробнее](/projects/chatcontrol/README.md) </br> [Телеграм-канал](https://t.me/chatcontrol) </br> [Бот](https://t.me/ITPM_dev_main_bot)|
-
----
-
-<a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing"><img height="200" alt="Логотип Хекслета" src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png"></a>
-
-Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-projects-for-contributing).
