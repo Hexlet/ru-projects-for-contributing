@@ -17,6 +17,6 @@ Outline разрабатывается и поддерживается небо�
 ## Ссылки
 
 * [Руководство для участников проекта](https://github.com/outline/outline?tab=readme-ov-file#contributing)
-* [Сайт](www.getoutline.com)
+* [Сайт](https://www.getoutline.com)
 * [Исходный код](https://github.com/outline/outline)
 * [Задачи](https://github.com/outline/outline/issues)
