@@ -171,19 +171,19 @@ issue, чат или заявка.
 
 |Название | Разрабы |
 |:----------------|:--------------|
-|**Скриншоты** | <a href="https://razrabs.ru/" target="_blank"><img width="200px" height="100px" src="./projects/razrabs/assets/razrabs.png"></a> <a href="https://razrabs.ru/" target="_blank"><img width="200px" height="100px" src="./projects/razrabs/assets/razrabs-2.png"></a>|
+|**Скриншот** | <a href="https://github.com/razrabs-media/journal" target="_blank"><img width="200px" height="100px" src="./projects/razrabs/assets/razrabs.png"></a> <a href="https://github.com/razrabs-media/journal" target="_blank"><img width="200px" height="100px" src="./projects/razrabs/assets/razrabs-2.png"></a>|
 |**Краткое описание** | «Разрабы» — это медиа ресурс для людей из IT-индустрии и всех, кто хочет ее понять
 |**Технологии** | TypeScript, Next.js|
 |**Основной язык общения** | русский |
 |**Регион** | Мир |
 |**Как участвовать** | Чтобы участвовать в проекте, возьмите существующую задачу из [этого раздела](https://github.com/razrabs-media/journal/issues). Если же у вас есть задумка, для которой еще не создано issue, создайте его и опишите, что будет сделано|
-|**Ссылки** | [Сайт](https://razrabs.ru/) </br> [Подробнее](/projects/razrabs/README.md)|
+|**Ссылки** | [Исходный код](https://github.com/razrabs-media/journal) </br> [Подробнее](/projects/razrabs/README.md)|
 
 ---
 
 |Название | getmentor |
 |:----------------|:--------------|
-|**Скриншоты** | <a href="https://getmentor.dev/" target="_blank"><img width="200px" height="130" src="./projects/getmentor/assets/getmentor-1.png"></a> <a href="https://getmentor.dev/" target="_blank"><img width="200px" height="130px" src="./projects/getmentor/assets/getmentor-2.png"></a>|
+|**Скриншот** | <a href="https://getmentor.dev/" target="_blank"><img width="200px" height="130" src="./projects/getmentor/assets/getmentor-1.png"></a> <a href="https://getmentor.dev/" target="_blank"><img width="200px" height="130px" src="./projects/getmentor/assets/getmentor-2.png"></a>|
 |**Краткое описание** | GetMentor — это открытое сообщество IT-наставников, готовых делиться знаниями и опытом
 |**Технологии** | PHP, Laravel, JavaScript, React|
 |**Основной язык общения** | русский |
@@ -195,7 +195,7 @@ issue, чат или заявка.
 
 |Название | Orchid |
 |:----------------|:--------------|
-|**Скриншоты** | <a href="https://orchid.software/" target="_blank"><img width="200px" height="120" src="./projects/orchid/assets/orchid-1.png"></a> <a href="https://orchid.software/" target="_blank"><img width="200px" height="120px" src="./projects/orchid/assets/orchid-2.png"></a>|
+|**Скриншот** | <a href="https://orchid.software/" target="_blank"><img width="200px" height="120" src="./projects/orchid/assets/orchid-1.png"></a> <a href="https://orchid.software/" target="_blank"><img width="200px" height="120px" src="./projects/orchid/assets/orchid-2.png"></a>|
 |**Краткое описание** | Laravel Orchid — это проект с открытым исходным кодом от российского Laravel сообщества, который упрощает разработку административных приложений, предлагая элегантный интерфейс и множество функциональных возможностей. Он включает в себя конструктор форм, управление правами доступа, более 40 типов полей и другие инструменты для создания удобных интерфейсов
 |**Технологии** | PHP, JavaScript, Blade|
 |**Основной язык общения** | русский |
@@ -207,7 +207,7 @@ issue, чат или заявка.
 
 |Название | Outline |
 |:----------------|:--------------|
-|**Скриншоты** | <a href="https://www.getoutline.com/" target="_blank"><img width="200px" src="./projects/outline/assets/outline-1.png"></a> <a href="https://www.getoutline.com/" target="_blank"><img width="200px" src="./projects/outline/assets/outline-2.png"></a>|
+|**Скриншот** | <a href="https://www.getoutline.com/" target="_blank"><img width="200px" src="./projects/outline/assets/outline-1.png"></a> <a href="https://www.getoutline.com/" target="_blank"><img width="200px" src="./projects/outline/assets/outline-2.png"></a>|
 |**Краткое описание** | Outline — это приложение для создания и управления базой знаний, которое позволяет пользователям организовывать информацию и совместно использовать ее
 |**Технологии** | TypeScript, React, Node.js.|
 |**Основной язык общения** | английский |
@@ -219,7 +219,7 @@ issue, чат или заявка.
 
 |Название | Ordo |
 |:----------------|:--------------|
-|**Скриншоты** | <a href="https://ordo.pink/" target="_blank"><img width="200px" src="./projects/ordo/assets/ordo-1.png"></a> <a href="https://ordo.pink/" target="_blank"><img width="200px" src="./projects/ordo/assets/ordo-2.png"></a>|
+|**Скриншот** | <a href="https://ordo.pink/" target="_blank"><img width="200px" src="./projects/ordo/assets/ordo-1.png"></a> <a href="https://ordo.pink/" target="_blank"><img width="200px" src="./projects/ordo/assets/ordo-2.png"></a>|
 |**Краткое описание** | Ordo — это расширяемый движок для хранения данных, который предлагает пользователям возможность работы с текстовыми файлами, поддерживает метки и ссылки между файлами. Он акцентирует внимание на локальном хранении данных и безопасности, позволяя пользователям управлять своими данными без обязательной регистрации
 |**Технологии** | TypeScript, Bun.js|
 |**Основной язык общения** | английский |
@@ -231,7 +231,7 @@ issue, чат или заявка.
 
 |Название | Chat Control |
 |:----------------|:--------------|
-|**Скриншоты** | <a href="https://chatcontrol.xyz/" target="_blank"><img width="200px" src="./projects/chatcontrol/assets/main.png"><img width="200px" src="./projects/chatcontrol/assets/docs.png"></a>|
+|**Скриншот** | <a href="https://chatcontrol.xyz/" target="_blank"><img width="200px" src="./projects/chatcontrol/assets/main.png"><img width="200px" src="./projects/chatcontrol/assets/docs.png"></a>|
 |**Краткое описание** | [Chat Control](https://t.me/ITPM_dev_main_bot)- сервис для управления группами и каналами в Telegram.
 |**Технологии** | Java, Python (aiogram), Node.js, React |
 |**Основной язык общения** | русский |
