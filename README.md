@@ -9,7 +9,7 @@
 
 # Проекты для коммерческого опыта
 
-**17 проектов с открытым исходным кодом, которые берут новых участников** — шахматный сервер
+**16 проектов с открытым исходным кодом, которые берут новых участников** — шахматный сервер
 на Scala, игровая платформа на Elixir, сервисы на Rails, Django, Laravel и Next.js.
 
 По каждому проекту: стек, язык общения команды, регион и конкретный способ подключиться —
@@ -166,18 +166,6 @@ issue, чат или заявка.
 |**Регион** | Мир |
 |**Как участвовать** | Чтобы участвовать в проекте, изучите [руководство для участников](https://github.com/es-tooling/module-replacements?tab=readme-ov-file#contributing) и откройте issue для обсуждения с разработчиками, если хотите добавить замену в один из манифестов|
 |**Ссылки** | [Репозиторий](https://github.com/es-tooling/module-replacements) </br> [Подробнее](/projects/module-replacements/README.md)|
-
----
-
-|Название | Разрабы |
-|:----------------|:--------------|
-|**Скриншот** | <a href="https://github.com/razrabs-media/journal" target="_blank"><img width="200px" height="100px" src="./projects/razrabs/assets/razrabs.png"></a> <a href="https://github.com/razrabs-media/journal" target="_blank"><img width="200px" height="100px" src="./projects/razrabs/assets/razrabs-2.png"></a>|
-|**Краткое описание** | «Разрабы» — это медиа ресурс для людей из IT-индустрии и всех, кто хочет ее понять
-|**Технологии** | TypeScript, Next.js|
-|**Основной язык общения** | русский |
-|**Регион** | Мир |
-|**Как участвовать** | Чтобы участвовать в проекте, возьмите существующую задачу из [этого раздела](https://github.com/razrabs-media/journal/issues). Если же у вас есть задумка, для которой еще не создано issue, создайте его и опишите, что будет сделано|
-|**Ссылки** | [Исходный код](https://github.com/razrabs-media/journal) </br> [Подробнее](/projects/razrabs/README.md)|
 
 ---
 
